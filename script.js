@@ -19,7 +19,7 @@ const apiUrl = "https://api.quotable.io/random";
             }
         }
 
-        // Function to display the fetched quote
+        // Function to display the fetched quotea
         async function displayRandomQuote() {
             const quoteText = document.getElementById("quote-text");
             const authorSpan = document.getElementById("author");
